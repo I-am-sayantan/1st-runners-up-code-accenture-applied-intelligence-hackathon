@@ -1,0 +1,11 @@
+dataprep
+pandas
+numpy
+matplotlib
+sklearn
+seaborn
+pickle
+scipy
+os
+datetime
+plotly
