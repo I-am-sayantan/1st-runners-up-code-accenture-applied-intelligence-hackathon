@@ -1,1 +1,5 @@
+### please download the kaggle datasets from this api links, this will be required to run the code.
 
+kaggle datasets download -d dgunning/json-cache
+kaggle datasets download -d dgunning/cord-images
+kaggle datasets download -d allen-institute-for-ai/CORD-19-research-challenge
