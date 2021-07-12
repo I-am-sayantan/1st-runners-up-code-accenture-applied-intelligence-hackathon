@@ -1,9 +1,16 @@
-### How the world have changed in the last 1.5 years
+
+<p align="center">
+  How the world have changed in the last 1.5 years 
+</p>
 
 <p align="center">
   <kbd>
   <img width="1000" height="500" src="https://assets.weforum.org/editor/yoUek8H0DdLkJtX0tTeV7X45hEBUdZ_iT3IDERoUu3w.gif">
    </kbd> 
+</p>
+
+<p align="center">
+  |--------------------------------------------------------------------------------------------------------------------------| 
 </p>
 
 # About our project Support-Join-Aid-the-Battle-against-Covid19 
