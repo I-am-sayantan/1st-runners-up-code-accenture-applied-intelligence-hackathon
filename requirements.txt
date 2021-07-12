@@ -9,3 +9,6 @@ scipy
 os
 datetime
 plotly
+tqdm 
+-U sentence-transformers
+streamlit
