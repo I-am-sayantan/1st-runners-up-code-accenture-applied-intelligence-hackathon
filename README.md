@@ -1,4 +1,6 @@
-![unnamed](https://user-images.githubusercontent.com/50532530/125205463-01eebd00-e2a0-11eb-86e8-c6cdedb8ecda.png)
+![CoronavirusAnimation2](https://user-images.githubusercontent.com/50532530/125357760-ae569f00-e385-11eb-8862-967827fc31a9.gif)
+
+
 
 Covid 19 is continuing to spread around the world, with more than 180 million confirmed cases and four million deaths across nearly 200 countries. By this hackathon, we aim to provide some solutions for the global pandemic.
 
