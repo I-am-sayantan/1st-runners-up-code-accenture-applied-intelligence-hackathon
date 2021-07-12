@@ -30,8 +30,6 @@
 
 - Lastly, we find countries in different continents that were successful in combating COVID using factors like new cases per population and fatality rate. This is done in Top countries folder. We also look at the policies regarding Covid 19 with the hope that similar countries can implement these policies in their battle against Covid. This is done in government policies folder.
 
-- We have also made our application here the tutorial to use it:
-
 
 <p align="center">
   |--------------------------------------------------------------------------------------------------------------------------| 
