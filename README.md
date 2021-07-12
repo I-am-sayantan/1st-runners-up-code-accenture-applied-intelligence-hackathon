@@ -15,3 +15,5 @@ Next, we have built a model to predict the level of sadness using sentiment anal
 To find the severity of illness in a particular demographic, we find seven clusters of communities depending on the number of cases. Clustering is done through PCA and K means algorithm. This is done in countries clustering covid folder.
 
 Lastly, we find countries in different continents that were successful in combating COVID using factors like new cases per population and fatality rate. This is done in Top countries folder. We also look at the policies regarding Covid 19 with the hope that similar countries can implement these policies in their battle against Covid. This is done in government policies folder.
+
+We have also deployed a web application that recommends restrictions for the input country and the populations that have the highest risk of contracting COVID-19
