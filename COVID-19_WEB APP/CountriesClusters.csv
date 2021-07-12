@@ -1,0 +1,188 @@
+,clusters,Country/Region
+0,2,Afghanistan
+1,3,Albania
+2,2,Algeria
+3,2,Andorra
+4,3,Angola
+5,2,Antigua and Barbuda
+6,4,Argentina
+7,0,Armenia
+8,5,Australia
+9,2,Austria
+10,6,Azerbaijan
+11,5,Bahamas
+12,6,Bahrain
+13,4,Bangladesh
+14,2,Barbados
+15,6,Belarus
+16,1,Belgium
+17,3,Belize
+18,0,Benin
+19,6,Bhutan
+20,3,Bolivia
+21,3,Bosnia and Herzegovina
+22,3,Botswana
+23,4,Brazil
+24,6,Brunei
+25,3,Bulgaria
+26,2,Burkina Faso
+27,6,Burma
+28,0,Burundi
+29,0,Cabo Verde
+30,5,Cambodia
+31,6,Cameroon
+32,1,Canada
+33,3,Central African Republic
+34,2,Chad
+35,4,Chile
+36,2,China
+37,4,Colombia
+38,6,Comoros
+39,3,Congo (Brazzaville)
+40,0,Congo (Kinshasa)
+41,3,Costa Rica
+42,0,Cote d'Ivoire
+43,6,Croatia
+44,2,Cuba
+45,6,Cyprus
+46,6,Czechia
+47,2,Denmark
+48,6,Djibouti
+49,6,Dominica
+50,3,Dominican Republic
+51,1,Ecuador
+52,1,Egypt
+53,3,El Salvador
+54,3,Equatorial Guinea
+55,0,Eritrea
+56,2,Estonia
+57,3,Eswatini
+58,5,Ethiopia
+59,0,Fiji
+60,2,Finland
+61,1,France
+62,0,Gabon
+63,5,Gambia
+64,6,Georgia
+65,2,Germany
+66,6,Ghana
+67,3,Greece
+68,6,Greenland
+69,6,Grenada
+70,2,Guatemala
+71,6,Guinea
+72,3,Guinea-Bissau
+73,1,Guyana
+74,0,Haiti
+75,6,Holy See
+76,3,Honduras
+77,1,Hungary
+78,6,Iceland
+79,4,India
+80,1,Indonesia
+81,4,Iran
+82,4,Iraq
+83,2,Ireland
+84,3,Israel
+85,1,Italy
+86,6,Jamaica
+87,5,Japan
+88,6,Jordan
+89,0,Kazakhstan
+90,5,Kenya
+91,5,Kosovo
+92,6,Kuwait
+93,5,Kyrgyzstan
+94,6,Laos
+95,6,Latvia
+96,5,Lebanon
+97,3,Lesotho
+98,1,Liberia
+99,3,Libya
+100,6,Liechtenstein
+101,2,Lithuania
+102,6,Luxembourg
+103,5,Madagascar
+104,3,Malawi
+105,6,Malaysia
+106,0,Maldives
+107,2,Mali
+108,6,Malta
+109,6,Mauritania
+110,6,Mauritius
+111,4,Mexico
+112,2,Moldova
+113,2,Monaco
+114,0,Mongolia
+115,3,Montenegro
+116,6,Morocco
+117,3,Mozambique
+118,3,Namibia
+119,0,Nepal
+120,1,Netherlands
+121,6,New Zealand
+122,2,Nicaragua
+123,2,Niger
+124,3,Nigeria
+125,1,North Macedonia
+126,6,Norway
+127,0,Oman
+128,4,Pakistan
+129,3,Panama
+130,5,Papua New Guinea
+131,5,Paraguay
+132,4,Peru
+133,3,Philippines
+134,2,Poland
+135,2,Portugal
+136,6,Qatar
+137,1,Romania
+138,4,Russia
+139,3,Rwanda
+140,6,Saint Kitts and Nevis
+141,6,Saint Lucia
+142,0,Saint Vincent and the Grenadines
+143,2,San Marino
+144,6,Sao Tome and Principe
+145,4,Saudi Arabia
+146,0,Senegal
+147,3,Serbia
+148,3,Seychelles
+149,2,Sierra Leone
+150,6,Singapore
+151,0,Slovakia
+152,2,Slovenia
+153,3,Somalia
+154,4,South Africa
+155,6,South Korea
+156,3,South Sudan
+157,1,Spain
+158,0,Sri Lanka
+159,1,Sudan
+160,5,Suriname
+161,1,Sweden
+162,2,Switzerland
+163,3,Syria
+164,6,Taiwan*
+165,6,Tajikistan
+166,3,Tanzania
+167,6,Thailand
+168,3,Timor-Leste
+169,0,Togo
+170,2,Trinidad and Tobago
+171,2,Tunisia
+172,4,Turkey
+173,4,US
+174,6,Uganda
+175,3,Ukraine
+176,6,United Arab Emirates
+177,1,United Kingdom
+178,6,Uruguay
+179,5,Uzbekistan
+180,5,Venezuela
+181,6,Vietnam
+182,3,West Bank and Gaza
+183,2,Western Sahara
+184,1,Yemen
+185,5,Zambia
+186,5,Zimbabwe
