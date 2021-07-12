@@ -2,7 +2,7 @@
 
 <p align="center">
   <kbd>
-  <img width="1000" height="650" src="https://assets.weforum.org/editor/yoUek8H0DdLkJtX0tTeV7X45hEBUdZ_iT3IDERoUu3w.gif">
+  <img width="1000" height="500" src="https://assets.weforum.org/editor/yoUek8H0DdLkJtX0tTeV7X45hEBUdZ_iT3IDERoUu3w.gif">
    </kbd> 
 </p>
 
