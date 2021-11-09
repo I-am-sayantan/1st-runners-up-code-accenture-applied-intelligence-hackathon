@@ -35,9 +35,7 @@
   |--------------------------------------------------------------------------------------------------------------------------| 
 </p>
 
-## Required datasets for running the research paper recommendation: 
-
-[link](https://drive.google.com/drive/folders/1A5owAtUSBFNXkHux3paXlmUSsAhnuqlW?usp=sharing)
+## Required datasets for running the research paper recommendation: [link](https://drive.google.com/drive/folders/1A5owAtUSBFNXkHux3paXlmUSsAhnuqlW?usp=sharing)
 
 <p align="center">
   |--------------------------------------------------------------------------------------------------------------------------| 
